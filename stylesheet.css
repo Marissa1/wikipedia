@@ -4,7 +4,7 @@
 
 
 }
-#header{
+.header{
   float:center;
 }
 
@@ -19,13 +19,15 @@ background: #f0f8ff;
 }
 h2{
 border: 2px solid grey;
+padding: 10px;;
+background: lightgrey;
 
 }
 
 h3{
 border: 2px solid grey;
 background: #c6e2ff;
-  
+
 }
 a {
 float: right;
@@ -34,4 +36,7 @@ padding: 5px;
 ul{
 float: right;
 
+}
+.span2{
+  color: blue;
 }
